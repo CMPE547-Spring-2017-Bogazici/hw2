@@ -1,4 +1,10 @@
 # hw2
+
+P.S
+I don't know that we can't use R with Jupyter -or maybe that's my problem because I couldn't use them together- so instead, I use R markdown. Hope that's OK. Here you can open the html file:
+
+https://rawgit.com/busebuz/hw2/master/hw2_markdown.html
+
 Generative models
 
 You are given the following dataset.
